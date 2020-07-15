@@ -10,7 +10,7 @@ Once a year I also organize a kind of cycling race called “[Thüringen erfahre
 
 ## More
 :page_with_curl: My blog [bueltge.de](https://bueltge.de/)<br>
-:coffee: On Twitter [bueltge](https://twitter.com/bueltge)<br>
+:speech_balloon: On Twitter [bueltge](https://twitter.com/bueltge)<br>
 
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bueltge)](https://github.com/bueltge/)
