@@ -8,13 +8,13 @@ I am reliable and optimistic. Especially important to me are honesty, tolerance 
 ## Thüringen erfahren :bicyclist:
 Once a year I also organize a kind of cycling race called “[Thüringen erfahren](https://bueltge.de/thueringen-erfahren/)“, mostly over about 500 km. But there are no first, second or third place and no prizes. The only goal is to arrive at the finish line, absolutely without any help from others ‒ including repairs if necessary. Otherwise, there are not many rules. I want to offer a challenge to people who like to cycle long distances. On such trips, I only stop for eating and shopping for food and usually ride through the night. I like the variety of this challenge. No restrictions, the goal is what you make of it.
 
-## Motto
+## Motto :loudspeaker:
 The human makes it.
 
-## More
+## More :fast_forward:
 :page_with_curl: My blog [bueltge.de](https://bueltge.de/)<br>
 :speech_balloon: On Twitter [bueltge](https://twitter.com/bueltge)<br>
 :chains: On LinkedIn [bueltge](https://www.linkedin.com/in/bueltge/)<br>
 
-## Stats
+## Stats :chart_with_upwards_trend:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bueltge)](https://github.com/bueltge/)
