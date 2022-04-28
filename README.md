@@ -13,6 +13,10 @@ The human makes it.
 
 ## More :fast_forward:
 :page_with_curl: My blog [bueltge.de](https://bueltge.de/)<br>
+### Last blog posts (German)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 :speech_balloon: On Twitter [bueltge](https://twitter.com/bueltge)<br>
 :chains: On LinkedIn [bueltge](https://www.linkedin.com/in/bueltge/)<br>
 
