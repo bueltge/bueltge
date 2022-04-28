@@ -1,0 +1,18 @@
+name: Fetch posts
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-articles:
+    name: Update this repo's README with Franks latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@1.2.5
+        with:
+          commit_message: "Updated readme with the latest post data"
+          feed_list: "https://bueltge.de/feed/"
+          max_post_count: "5"
