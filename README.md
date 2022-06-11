@@ -15,11 +15,11 @@ The human makes it.
 :page_with_curl: My blog [bueltge.de](https://bueltge.de/)<br>
 ### Last blog posts (German)
 <!-- BLOG-POST-LIST:START -->
+- [Thüringen Erfahren All-Road in 2022](https://bueltge.de/thueringen-erfahren-all-road-in-2022/4616/)
 - [Thüringen Erfahren in 2020](https://bueltge.de/thueringen-erfahren-in-2020/4571/)
 - [Transcimbrica](https://bueltge.de/transcimbrica/4558/)
 - [Thüringen erfahren 2019](https://bueltge.de/thueringen-erfahren-2019/4525/)
 - [Thüringen erfahren – Meine Erfahrung](https://bueltge.de/thueringen-erfahren-meine-erfahrung/4504/)
-- [TriRhena 1000km/13.000hm, 57h Komplett/43h Fahrzeit](https://bueltge.de/trirhena-1000km13-000hm-57h-komplett43h-fahrzeit/4485/)
 <!-- BLOG-POST-LIST:END -->
 
 :speech_balloon: On Twitter [bueltge](https://twitter.com/bueltge)<br>
