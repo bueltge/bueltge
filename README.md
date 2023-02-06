@@ -22,7 +22,7 @@ The human makes it.
 - [Thüringen erfahren – Meine Erfahrung](https://bueltge.de/thueringen-erfahren-meine-erfahrung/4504/)
 <!-- BLOG-POST-LIST:END -->
 
-:speech_balloon: On Twitter [bueltge](https://twitter.com/bueltge)<br>
+:speech_balloon: On Mastodon [@bueltge@home.social](https://home.social/@bueltge)<br>
 :chains: On LinkedIn [bueltge](https://www.linkedin.com/in/bueltge/)<br>
 
 ## Stats :chart_with_upwards_trend:
