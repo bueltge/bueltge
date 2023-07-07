@@ -16,7 +16,7 @@ The human makes it.
 
 ## More :fast_forward:
 :page_with_curl: My blog [bueltge.de](https://bueltge.de/)<br>
-:speech_balloon: On Mastodon <a rel="me" href="https://home.social/@bueltge">bueltge</a><br>
+:speech_balloon: On Mastodon <a rel="me" href="https://mastodon.social/@bueltge">bueltge</a><br>
 :chains: On LinkedIn [bueltge](https://www.linkedin.com/in/bueltge/)<br>
 
 ## Stats :chart_with_upwards_trend:
